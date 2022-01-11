@@ -15,6 +15,3 @@ steps {
 sh 'node ./frontend/test.js'
 }
 }
-}
-}
-}
